@@ -6,6 +6,7 @@ from attendance.models import HaribhaktDetail
 
 # Create your views here.
 
+
 class HomePage(TemplateView):
     """
     Because our needs are so simple, all we have to do is
@@ -14,14 +15,14 @@ class HomePage(TemplateView):
     """
     template_name = 'attendance/home.html'
 
-class HaribhaktDetailListView(ListView):
-	model = HaribhaktDetail
-	list_display = ('name','mobile_no')
 
-	def get_context_data(self, **kwargs):
-		context = super().get_context_data(**kwargs)
-		context['now'] = timezone.now()
-		return context
+class HaribhaktDetailListView(ListView):
+    model = HaribhaktDetail
+    list_display = ('name','mobile_no')
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['now'] = timezone.now()
+        return context
 
 # from articles.models import Article
 
