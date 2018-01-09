@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block title %}Haribhakt Detail's{% endblock title %}
+{% block content %}
+<h1>Haribhakt Deatail</h1>
+<ul>
+{% for haribhaktdetail in object_list %}
+    <li>{{ haribhaktdetail.id }} - {{ haribhaktdetail.name }}</li>
+{% empty %}
+    <li>No details yet.</li>
+{% endfor %}
+</ul>
+{% endblock %}
