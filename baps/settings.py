@@ -25,7 +25,10 @@ SECRET_KEY = ')yj+f**-n7#&93@16ztpk2sff)_s!5d$r28#=8w0=l=&#91mhd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'indrapuri.herokuapp.com',
+    '127.0.0.1',
+]
 
 
 # Application definition
@@ -95,23 +98,23 @@ WSGI_APPLICATION = 'baps.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-#     }
-# }
-# Postgres database link
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'baps-attendance',
-        'USER': 'postgres',
-        'PASSWORD': '1@mAdmin',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+# Postgres database link
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'baps-attendance',
+#         'USER': 'postgres',
+#         'PASSWORD': '1@mAdmin',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
