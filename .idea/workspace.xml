@@ -54,8 +54,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baps/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="157" column="26" lean-forward="false" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="114" column="25" lean-forward="true" selection-start-line="110" selection-start-column="10" selection-end-line="114" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -450,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515586833211</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix staticfile">
+      <created>1515588197182</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1515588197182</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -766,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baps/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="157" column="26" lean-forward="false" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
+        <state relative-caret-position="306">
+          <caret line="114" column="25" lean-forward="true" selection-start-line="110" selection-start-column="10" selection-end-line="114" selection-end-column="25" />
           <folding />
         </state>
       </provider>
