@@ -54,8 +54,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baps/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="158" column="81" lean-forward="false" selection-start-line="158" selection-start-column="2" selection-end-line="158" selection-end-column="81" />
+            <state relative-caret-position="374">
+              <caret line="157" column="26" lean-forward="false" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -443,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515585003316</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix staticfile">
+      <created>1515586833211</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1515586833211</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -485,7 +492,8 @@
     <MESSAGE value="fix allowhost in settings" />
     <MESSAGE value="fix Procfile" />
     <MESSAGE value="fix requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix requirements.txt" />
+    <MESSAGE value="fix staticfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix staticfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -758,8 +766,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baps/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="158" column="81" lean-forward="false" selection-start-line="158" selection-start-column="2" selection-end-line="158" selection-end-column="81" />
+        <state relative-caret-position="374">
+          <caret line="157" column="26" lean-forward="false" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
           <folding />
         </state>
       </provider>
