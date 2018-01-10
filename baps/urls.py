@@ -15,13 +15,16 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+from attendance.views import  index
 from material.frontend import urls as frontend_urls
-from attendance.views import HomePage
+from django.contrib.auth import views as auth
+from django.views import generic
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),     
-    # url(r'^$', HomePage.as_view(), name="home"),
+    url('^$', index, name="index"),
     url(r'', include(frontend_urls)),
-    url(r'^attendance/', include('attendance.urls')),    
-
+    url(r'^attendance/', include('attendance.urls')),
+    url(r'^baps/login/$', auth.login, {'template_name': 'attendance/login.html'}, name='login'),
+    url(r'^baps/logout/$', auth.logout, {'next_page': '/'}, name='logout'),
 ]

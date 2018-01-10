@@ -14,13 +14,17 @@ Including another URLconf
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
 from django.conf.urls import url, include
-from django.contrib import admin
 from django.views import generic
-from .views import HomePage,HaribhaktDetailListView
+from .views import HaribhaktDetailListView,newHaribhakt,index
+from django.contrib.auth import views as auth
+from django.contrib.auth.decorators import login_required
 
 urlpatterns = [
-    url('^$', generic.TemplateView.as_view(template_name="attendance/index.html"), name="index"), 
+    url('^$', index, name="home"),
 	url(r'^login/$',generic.TemplateView.as_view(template_name="attendance/login.html"),name="login"),
-	url(r'^logout/$',generic.TemplateView.as_view(template_name="attendance/logout.html"), name='/login/'),
+	url(r'^logout/$',auth.logout, name='/login/'),
+    url(r'^users/change_password/$', login_required(auth.password_change),
+        {'post_change_redirect': '/', 'template_name': 'change_password.html'}, name='change_password'),
+    url(r'^haribhakt/new/$',newHaribhakt, name="newHaribhakt"),
     url(r'^haribhaktdetail/$', HaribhaktDetailListView.as_view(), name='haribhaktdetail-list'),
 ]

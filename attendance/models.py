@@ -22,9 +22,9 @@ class HaribhaktDetail(models.Model):
     )
     baps_type = models.CharField(max_length=255, choices=BAPS_TYPE, default=HARIBHAKT)
     name = models.CharField(max_length=250, blank=False)
-    mobile_no = models.IntegerField(max_length=10, blank=True)
+    mobile_no = models.CharField(max_length=10, blank=True)
     address = models.CharField(max_length=250, blank=True)
-    user = models.OneToOneField(User)
+    user = models.ForeignKey(User)
 
     def __str__(self):
         return '%s (%s)' % (self.name, self.baps_type)

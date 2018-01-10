@@ -1,22 +1,57 @@
-{% extends 'material/frontend/base_module.html' %}
+{% extends 'attendance/layout.html' %}
 
-{% block title %}Momentous Technosolutions{% endblock %}
+{% block title %} All Haribhakt Data {% endblock %}
 
-{% block sidenav_items %}
-    {{ block.super }}
-    <li><a class="collapsible-header" href="/accounts/profile/">Profile</a></li>
-    <li><a class="collapsible-header" href="http://mtspl.co.in/contact-us/">Contact us</a></li>
-{% endblock %}
+{% block body %}
+        <section>
+                    <div class="section-body">
+                        <!-- BEGIN DATATABLE 2 -->
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="card">
+                                    <div class="card-head style-primary">
+                                        <header>All Haribhakt Data</header>
+                                        <div class="tools">
+                                            <a class="btn btn-icon-toggle btn-collapse"><i class="fa fa-angle-down"></i></a>
+                                            <a class="btn btn-icon-toggle btn-close"><i class="md md-close"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="table-responsive">
+                                            <table id="datatable1" class="table haribhakt-column hover">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Name</th>
+                                                        <th>Mobile No</th>
+                                                        <th>Address</th>
+                                                        <th>Status</th>
+                                                        <th width="150px">Buttons</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    {% for haribhaktdetail in haribhaktdetails %}
+                                                        <tr class="gradeX">
+                                                            <td>{{ haribhaktdetail.name }}</td>
+                                                            <td>{{ haribhaktdetail.mobile_no }}</td>
+                                                            <td>{{ haribhaktdetail.address }}</td>
+                                                            <td><span class="badge" style="background: #0aa89e"> {{ haribhaktdetail.haribhakt_status }}</span></td>
+                                                            <td>
+                                                                <a href="" class="btn ink-reaction btn-floating-action btn-warning"><i class="md md-edit"></i> </a>
+                                                                <a href="" class="btn ink-reaction btn-floating-action btn-danger" onclick="return confirm('Are you sure you want to delete this?')"><i class="md md-delete"></i> </a>
+                                                                <a href="" class="btn ink-reaction btn-floating-action btn-primary"><i class="md md-print"></i> </a>
+                                                            </td>
+                                                        </tr>
+                                                    {% endfor %}
+                                                </tbody>
+                                            </table>
+                                        </div><!--end .table-responsive -->
+                                    </div>   
+                                </div>       
+                            </div><!--end .col -->
+                        </div><!--end .row -->
+                        <!-- END DATATABLE 2 -->
 
-{% block userlinks %}
-    <li>
-        <a class="dropdown-button" href="#!" data-activates="user-menu">
-            <i class="material-icons right">arrow_drop_down</i>Menu
-        </a>
-    </li>
-    <ul id="user-menu" class="dropdown-content" style="min-width:200px">
-        <li><a href="#">Item 1 </a></li>
-        <li><a href="#">Item 2 </a></li>
-    </ul>
-    {{ block.super }}
+                    </div><!--end .section-body -->
+                </section>
+    
 {% endblock %}
