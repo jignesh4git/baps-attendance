@@ -1,450 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99cb0dc2-9452-4be7-82bb-464917533879" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/TableTools.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/TableTools.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/extensions/dataTables.colVis.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/extensions/dataTables.colVis.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/extensions/dataTables.tableTools.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/extensions/dataTables.tableTools.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/back_disabled.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/back_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/back_enabled.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/back_enabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/back_enabled_hover.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/back_enabled_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/forward_disabled.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/forward_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/forward_enabled.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/forward_enabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/forward_enabled_hover.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/forward_enabled_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/sort_asc.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/sort_asc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/sort_asc_disabled.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/sort_asc_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/sort_both.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/sort_both.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/sort_desc.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/sort_desc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/img/sort_desc_disabled.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/img/sort_desc_disabled.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/DataTables/jquery.dataTables.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/DataTables/jquery.dataTables.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/bootstrap-datepicker/datepicker3.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/bootstrap-datepicker/datepicker3.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/fullcalendar/fullcalendar.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/fullcalendar/fullcalendar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/animated-overlay.gif" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/animated-overlay.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-bg_flat_0_ed0000_40x100.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-bg_flat_0_ed0000_40x100.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-bg_flat_100_cecece_40x100.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-bg_flat_100_cecece_40x100.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-bg_flat_100_ffffff_40x100.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-bg_flat_100_ffffff_40x100.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-bg_flat_55_adb5e8_40x100.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-bg_flat_55_adb5e8_40x100.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-icons_222222_256x240.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-icons_24ee24_256x240.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-icons_24ee24_256x240.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-icons_2e83ff_256x240.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-icons_454545_256x240.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-icons_888888_256x240.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/jquery-ui-planar.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/jquery-ui-planar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/jquery-ui/jquery-ui-theme.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/jquery-ui/jquery-ui-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/select2/select2-spinner.gif" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/select2/select2-spinner.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/select2/select2.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/select2/select2.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/libs/toastr/toastr.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/libs/toastr/toastr.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/material-design-iconic-font.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/material-design-iconic-font.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/materialadmin.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/materialadmin_print.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/materialadmin_print.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/css/print.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/print.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/LICENSE.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/Material-Design-Iconic-Font.eot" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/Material-Design-Iconic-Font.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/Material-Design-Iconic-Font.svg" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/Material-Design-Iconic-Font.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/Material-Design-Iconic-Font.ttf" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/Material-Design-Iconic-Font.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/Material-Design-Iconic-Font.woff" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/Material-Design-Iconic-Font.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/attendance/static/attendance/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/img/django_logo.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/img/django_logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/img/pass.jpg" afterPath="$PROJECT_DIR$/attendance/static/attendance/img/pass.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/core/App.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/core/App.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/core/AppCard.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/core/AppCard.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/core/AppForm.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/core/AppForm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/core/AppNavigation.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/core/AppNavigation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/core/AppOffcanvas.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/core/AppOffcanvas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/core/AppVendor.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/core/AppVendor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/core/Demo.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/core/Demo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/core/DemoTableDynamic.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/core/DemoTableDynamic.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/Readme.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/Readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/css/dataTables.autoFill.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/css/dataTables.autoFill.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/css/dataTables.autoFill.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/css/dataTables.autoFill.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/examples/columns.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/examples/columns.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/examples/complete-callback.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/examples/complete-callback.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/examples/fill-both.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/examples/fill-both.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/examples/fill-horizontal.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/examples/fill-horizontal.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/examples/scrolling.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/examples/scrolling.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/examples/simple.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/examples/simple.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/examples/step-callback.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/examples/step-callback.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/images/filler.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/images/filler.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/js/dataTables.autoFill.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/js/dataTables.autoFill.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/AutoFill/js/dataTables.autoFill.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/AutoFill/js/dataTables.autoFill.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/Readme.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/Readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/css/dataTables.colReorder.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/css/dataTables.colReorder.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/css/dataTables.colReorder.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/css/dataTables.colReorder.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/alt_insert.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/alt_insert.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/col_filter.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/col_filter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/colvis.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/colvis.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/fixedcolumns.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/fixedcolumns.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/fixedheader.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/fixedheader.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/jqueryui.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/jqueryui.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/new_init.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/new_init.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/predefined.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/predefined.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/realtime.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/realtime.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/reset.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/reset.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/scrolling.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/scrolling.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/server_side.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/server_side.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/simple.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/simple.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/examples/state_save.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/examples/state_save.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/images/insert.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/images/insert.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/js/dataTables.colReorder.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/js/dataTables.colReorder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColReorder/js/dataTables.colReorder.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColReorder/js/dataTables.colReorder.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/Readme.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/Readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/css/dataTables.colVis.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/css/dataTables.colVis.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/css/dataTables.colVis.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/css/dataTables.colVis.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/css/dataTables.colvis.jqueryui.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/css/dataTables.colvis.jqueryui.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/button_order.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/button_order.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/exclude_columns.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/exclude_columns.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/group_columns.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/group_columns.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/jqueryui.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/jqueryui.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/mouseover.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/mouseover.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/new_init.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/new_init.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/restore.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/restore.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/simple.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/simple.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/text.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/text.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/title_callback.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/title_callback.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/two_tables.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/two_tables.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/examples/two_tables_identical.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/examples/two_tables_identical.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/js/dataTables.colVis.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/js/dataTables.colVis.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/ColVis/js/dataTables.colVis.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/ColVis/js/dataTables.colVis.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/Readme.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/Readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/css/dataTables.fixedColumns.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/css/dataTables.fixedColumns.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/bootstrap.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/bootstrap.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/col_filter.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/col_filter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/colvis.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/colvis.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/css_size.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/css_size.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/index_column.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/index_column.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/left_right_columns.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/left_right_columns.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/right_column.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/right_column.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/rowspan.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/rowspan.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/server-side-processing.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/server-side-processing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/simple.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/simple.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/size_fixed.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/size_fixed.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/size_fluid.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/size_fluid.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/examples/two_columns.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/examples/two_columns.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/js/dataTables.fixedColumns.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/js/dataTables.fixedColumns.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/Readme.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/Readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/css/dataTables.fixedHeader.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/css/dataTables.fixedHeader.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/css/dataTables.fixedHeader.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/css/dataTables.fixedHeader.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/examples/header_footer.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/examples/header_footer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/examples/simple.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/examples/simple.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/examples/top_left_right.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/examples/top_left_right.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/examples/two_tables.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/examples/two_tables.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/examples/zIndexes.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/examples/zIndexes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/js/dataTables.fixedHeader.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/js/dataTables.fixedHeader.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/Readme.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/Readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/css/dataTables.keyTable.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/css/dataTables.keyTable.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/css/dataTables.keyTable.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/css/dataTables.keyTable.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/examples/events.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/examples/events.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/examples/html.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/examples/html.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/examples/scrolling.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/examples/scrolling.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/examples/simple.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/examples/simple.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/js/dataTables.keyTable.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/js/dataTables.keyTable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/KeyTable/js/dataTables.keyTable.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/KeyTable/js/dataTables.keyTable.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/Readme.md" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/Readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/css/dataTables.responsive.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/css/dataTables.responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/css/dataTables.responsive.scss" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/css/dataTables.responsive.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/child-rows/column-control.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/child-rows/column-control.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/child-rows/custom-renderer.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/child-rows/custom-renderer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/child-rows/disable-child-rows.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/child-rows/disable-child-rows.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/child-rows/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/child-rows/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/child-rows/right-column.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/child-rows/right-column.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/child-rows/whole-row-control.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/child-rows/whole-row-control.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/display-control/auto.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/display-control/auto.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/display-control/classes.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/display-control/classes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/display-control/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/display-control/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/display-control/init-classes.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/display-control/init-classes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/initialisation/ajax.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/initialisation/ajax.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/initialisation/className.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/initialisation/className.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/initialisation/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/initialisation/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/initialisation/new.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/initialisation/new.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/initialisation/option.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/initialisation/option.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/styling/bootstrap.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/styling/bootstrap.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/styling/foundation.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/styling/foundation.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/examples/styling/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/examples/styling/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/js/dataTables.responsive.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/js/dataTables.responsive.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Responsive/js/dataTables.responsive.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Responsive/js/dataTables.responsive.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/Readme.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/Readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/css/dataTables.scroller.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/css/dataTables.scroller.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/css/dataTables.scroller.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/css/dataTables.scroller.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/examples/api_scrolling.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/examples/api_scrolling.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/examples/data/2500.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/examples/data/2500.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/examples/data/ssp.php" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/examples/data/ssp.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/examples/large_js_source.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/examples/large_js_source.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/examples/server-side_processing.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/examples/server-side_processing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/examples/simple.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/examples/simple.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/examples/state_saving.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/examples/state_saving.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/images/loading-background.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/images/loading-background.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/js/dataTables.scroller.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/js/dataTables.scroller.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/Scroller/js/dataTables.scroller.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/Scroller/js/dataTables.scroller.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/Readme.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/Readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/css/dataTables.tableTools.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/css/dataTables.tableTools.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/css/dataTables.tableTools.min.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/css/dataTables.tableTools.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/ajax.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/ajax.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/alter_buttons.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/alter_buttons.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/bootstrap.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/bootstrap.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/button_text.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/button_text.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/collection.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/collection.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/defaults.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/defaults.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/index.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/jqueryui.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/jqueryui.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/multi_instance.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/multi_instance.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/multiple_tables.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/multiple_tables.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/new_init.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/new_init.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/pdf_message.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/pdf_message.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/plug-in.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/plug-in.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/select_column.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/select_column.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/select_multi.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/select_multi.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/select_os.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/select_os.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/select_single.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/select_single.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/simple.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/simple.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/examples/swf_path.html" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/examples/swf_path.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/background.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/background.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/collection.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/collection.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/collection_hover.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/collection_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/copy.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/copy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/copy_hover.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/copy_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/csv.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/csv.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/csv_hover.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/csv_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/pdf.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/pdf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/pdf_hover.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/pdf_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/print.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/print.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/print_hover.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/print_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/psd/collection.psd" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/psd/collection.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/psd/copy document.psd" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/psd/copy document.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/psd/file_types.psd" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/psd/file_types.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/psd/printer.psd" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/psd/printer.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/xls.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/xls.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/images/xls_hover.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/images/xls_hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/js/dataTables.tableTools.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/js/dataTables.tableTools.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/js/dataTables.tableTools.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/js/dataTables.tableTools.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/swf/copy_csv_xls.swf" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/swf/copy_csv_xls.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/extensions/TableTools/swf/copy_csv_xls_pdf.swf" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/extensions/TableTools/swf/copy_csv_xls_pdf.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/jquery.dataTables.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/jquery.dataTables.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/jquery.dataTables.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/jquery.dataTables.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/DataTables/license.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/DataTables/license.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/LICENSE" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/bootstrap-datepicker.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ar.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.az.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.az.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.bg.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.bg.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ca.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ca.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.cs.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.cs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.cy.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.cy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.da.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.da.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.de.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.de.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.el.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.el.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.es.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.es.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.et.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.et.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.fa.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.fa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.fi.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.fi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.fr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.fr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.gl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.gl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.he.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.he.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.hr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.hr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.hu.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.hu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.id.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.id.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.is.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.is.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.it.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.it.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ja.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ja.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ka.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ka.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.kk.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.kk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.kr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.kr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.lt.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.lt.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.lv.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.lv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.mk.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.mk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ms.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ms.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.nb.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.nb.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.nl-BE.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.nl-BE.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.nl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.nl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.no.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.no.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.pl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.pl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.pt-BR.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.pt-BR.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.pt.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.pt.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ro.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ro.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.rs-latin.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.rs-latin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.rs.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.rs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ru.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ru.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sk.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sq.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sq.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sv.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sw.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.sw.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.th.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.th.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.tr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.tr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ua.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ua.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.vi.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.vi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.zh-TW.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.zh-TW.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap/LICENSE" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap/bootstrap.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap/bootstrap.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/bootstrap/npm.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/bootstrap/npm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/changelog.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/changelog.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/fullcalendar.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/fullcalendar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/fullcalendar.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/fullcalendar.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/gcal.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/gcal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang-all.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang-all.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/ar-ma.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/ar-ma.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/ar-sa.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/ar-sa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/ar.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/ar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/bg.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/bg.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/ca.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/ca.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/cs.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/cs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/da.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/da.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/de-at.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/de-at.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/de.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/de.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/el.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/el.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/en-au.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/en-au.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/en-ca.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/en-ca.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/en-gb.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/en-gb.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/es.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/es.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/fa.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/fa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/fi.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/fi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/fr-ca.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/fr-ca.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/fr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/fr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/hi.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/hi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/hr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/hr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/hu.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/hu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/id.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/id.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/is.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/is.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/it.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/it.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/ja.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/ja.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/ko.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/ko.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/lt.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/lt.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/lv.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/lv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/nl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/nl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/pl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/pl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/pt-br.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/pt-br.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/pt.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/pt.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/ro.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/ro.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/ru.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/ru.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/sk.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/sk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/sl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/sl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/sr-cyrl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/sr-cyrl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/sr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/sr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/sv.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/sv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/th.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/th.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/tr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/tr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/uk.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/uk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/vi.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/vi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/zh-cn.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/zh-cn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/lang/zh-tw.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/lang/zh-tw.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/fullcalendar/license.txt" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/fullcalendar/license.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/LICENSE" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/inputmask/jquery.inputmask.date.extensions.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/inputmask/jquery.inputmask.date.extensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/inputmask/jquery.inputmask.extensions.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/inputmask/jquery.inputmask.extensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/inputmask/jquery.inputmask.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/inputmask/jquery.inputmask.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/inputmask/jquery.inputmask.numeric.extensions.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/inputmask/jquery.inputmask.numeric.extensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/inputmask/jquery.inputmask.phone.extensions.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/inputmask/jquery.inputmask.phone.extensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/inputmask/jquery.inputmask.regex.extensions.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/inputmask/jquery.inputmask.regex.extensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/jquery.inputmask.bundle.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/jquery.inputmask.bundle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/inputmask/jquery.inputmask.bundle.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/inputmask/jquery.inputmask.bundle.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/jquery-ui/LICENSE" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/jquery-ui/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/jquery-ui/jquery-ui.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/jquery-ui/jquery-ui.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/jquery/LICENSE" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/jquery/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/jquery/jquery-1.11.2.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/jquery/jquery-1.11.2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/jquery/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/jquery/jquery-1.11.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/jquery/jquery-1.11.2.min.map" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/jquery/jquery-1.11.2.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/jquery/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/jquery/jquery-migrate-1.2.1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/nanoscroller/jquery.nanoscroller.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/nanoscroller/jquery.nanoscroller.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/nanoscroller/jquery.nanoscroller.js.map" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/nanoscroller/jquery.nanoscroller.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/nanoscroller/jquery.nanoscroller.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/nanoscroller/jquery.nanoscroller.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/nanoscroller/jquery.nanoscroller.min.js.map" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/nanoscroller/jquery.nanoscroller.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/nanoscroller/jquery.nanoscroller.min.map" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/nanoscroller/jquery.nanoscroller.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/nanoscroller/overthrow.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/nanoscroller/overthrow.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/LICENSE" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/README.md" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/bower.json" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/component.json" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/component.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/composer.json" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/composer.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/package.json" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/release.sh" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/release.sh" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2-bootstrap.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2-bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2-spinner.gif" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2-spinner.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2.jquery.json" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2.jquery.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2.min.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ar.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_az.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_az.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_bg.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_bg.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ca.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ca.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_cs.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_cs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_da.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_da.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_de.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_de.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_el.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_el.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_en.js.template" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_en.js.template" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_es.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_es.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_et.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_et.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_eu.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_eu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_fa.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_fa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_fi.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_fi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_fr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_fr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_gl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_gl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_he.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_he.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_hr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_hr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_hu.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_hu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_id.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_id.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_is.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_is.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_it.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_it.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ja.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ja.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ka.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ka.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ko.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ko.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_lt.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_lt.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_lv.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_lv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_mk.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_mk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ms.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ms.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_nb.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_nb.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_nl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_nl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_no.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_no.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_pl.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_pl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_pt-BR.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_pt-BR.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_pt-PT.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_pt-PT.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ro.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ro.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_rs.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_rs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ru.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ru.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_sk.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_sk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_sv.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_sv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_th.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_th.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_tr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_tr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ua.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ua.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_ug-CN.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_ug-CN.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_uk.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_uk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_vi.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_vi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_zh-CN.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_zh-CN.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2_locale_zh-TW.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2_locale_zh-TW.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/select2/select2x2.png" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/select2/select2x2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/toastr/LICENSE" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/toastr/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/attendance/static/js/libs/toastr/toastr.js" afterPath="$PROJECT_DIR$/attendance/static/attendance/js/libs/toastr/toastr.js" />
+    <list default="true" id="99cb0dc2-9452-4be7-82bb-464917533879" name="Default" comment="fix static">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attendance/templates/attendance/layout.html" afterPath="$PROJECT_DIR$/attendance/templates/attendance/layout.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attendance/templates/attendance/login.html" afterPath="$PROJECT_DIR$/attendance/templates/attendance/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baps/settings.py" afterPath="$PROJECT_DIR$/baps/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -455,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="215" column="44" lean-forward="false" selection-start-line="215" selection-start-column="44" selection-end-line="215" selection-end-column="44" />
+            <state relative-caret-position="2791">
+              <caret line="216" column="31" lean-forward="true" selection-start-line="216" selection-start-column="31" selection-end-line="216" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1479">
-              <caret line="87" column="44" lean-forward="false" selection-start-line="87" selection-start-column="44" selection-end-line="87" selection-end-column="44" />
+            <state relative-caret-position="340">
+              <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -531,8 +90,8 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/baps/settings.py" />
-        <option value="$PROJECT_DIR$/attendance/templates/attendance/login.html" />
         <option value="$PROJECT_DIR$/attendance/templates/attendance/layout.html" />
+        <option value="$PROJECT_DIR$/attendance/templates/attendance/login.html" />
       </list>
     </option>
   </component>
@@ -753,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515589301247</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fix static">
+      <created>1515606092183</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1515606092184</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -817,7 +383,8 @@
     <MESSAGE value="fix requirements.txt" />
     <MESSAGE value="fix staticfile" />
     <MESSAGE value="fix db" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix db" />
+    <MESSAGE value="fix static" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix static" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -947,6 +514,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3285">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -954,6 +522,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1058">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -961,6 +530,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1806">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -968,6 +538,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2040">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -982,6 +553,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -989,6 +561,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="250" column="31" lean-forward="true" selection-start-line="250" selection-start-column="31" selection-end-line="250" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1010,6 +583,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="1079" column="16" lean-forward="false" selection-start-line="1079" selection-start-column="10" selection-end-line="1079" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,6 +673,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1106,6 +681,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1113,6 +689,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,6 +697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1127,6 +705,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,18 +724,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/login.html">
+    <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="87" column="44" lean-forward="false" selection-start-line="87" selection-start-column="44" selection-end-line="87" selection-end-column="44" />
+        <state relative-caret-position="2791">
+          <caret line="216" column="31" lean-forward="true" selection-start-line="216" selection-start-column="31" selection-end-line="216" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
+    <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="215" column="44" lean-forward="false" selection-start-line="215" selection-start-column="44" selection-end-line="215" selection-end-column="44" />
+        <state relative-caret-position="340">
+          <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
           <folding />
         </state>
       </provider>
