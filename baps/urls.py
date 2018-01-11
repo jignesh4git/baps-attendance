@@ -19,6 +19,7 @@ from attendance.views import  index
 from material.frontend import urls as frontend_urls
 from django.contrib.auth import views as auth
 from django.views import generic
+from django.contrib.auth.decorators import login_required
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),     
@@ -27,4 +28,5 @@ urlpatterns = [
     url(r'^attendance/', include('attendance.urls')),
     url(r'^baps/login/$', auth.login, {'template_name': 'attendance/login.html'}, name='login'),
     url(r'^baps/logout/$', auth.logout, {'next_page': '/'}, name='logout'),
+    url(r'^baps/change_password/$', login_required(auth.password_change), {'post_change_redirect' : '/','template_name': 'attendance/change_password.html'}, name='change_password'),
 ]
