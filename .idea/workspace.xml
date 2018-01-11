@@ -19,8 +19,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baps/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="105" column="19" lean-forward="false" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+            <state relative-caret-position="357">
+              <caret line="123" column="1" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="123" selection-end-column="1" />
               <folding>
                 <element signature="e#308#317#0" expanded="true" />
               </folding>
@@ -344,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515669163191</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="fix db">
+      <created>1515670581222</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1515670581222</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -753,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baps/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="105" column="19" lean-forward="false" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+        <state relative-caret-position="357">
+          <caret line="123" column="1" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="123" selection-end-column="1" />
           <folding>
             <element signature="e#308#317#0" expanded="true" />
           </folding>

@@ -112,16 +112,16 @@ DATABASES['default'] = dj_database_url.config()
 #     }
 # }
 # Postgres database link
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         # 'NAME': 'baps-attendance',
-#         # 'USER': 'postgres',
-#         # 'PASSWORD': '1@mAdmin',
-#         # 'HOST': 'localhost',
-#         # 'PORT': '5432',
-#     }
-# }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        # 'NAME': 'baps-attendance',
+        # 'USER': 'postgres',
+        # 'PASSWORD': '1@mAdmin',
+        # 'HOST': 'localhost',
+        # 'PORT': '5432',
+    }
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
