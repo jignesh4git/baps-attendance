@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99cb0dc2-9452-4be7-82bb-464917533879" name="Default" comment="fix static">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/static/attendance/css/libs/select2/select2.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baps/settings.py" afterPath="$PROJECT_DIR$/baps/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baps/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="40" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#308#317#0" expanded="true" />
               </folding>
@@ -58,12 +58,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="433">
+              <caret line="113" column="82" lean-forward="false" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="82" />
+              <folding>
+                <element signature="e#4692#4698#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,6 +91,7 @@
       <find>harib</find>
       <find>jquery-ui</find>
       <find>select2</find>
+      <find>material</find>
     </findStrings>
     <replaceStrings>
       <replace>haribhakt</replace>
@@ -485,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515673119509</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="fix select2.css">
+      <created>1515673248971</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1515673248971</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -563,7 +573,8 @@
     <MESSAGE value="fix db" />
     <MESSAGE value="fix material error" />
     <MESSAGE value="fix jquery error" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix jquery error" />
+    <MESSAGE value="fix select2.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix select2.css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -590,7 +601,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="79" lean-forward="false" selection-start-line="43" selection-start-column="79" selection-end-line="43" selection-end-column="79" />
-          <folding />
+          <folding>
+            <element signature="e#4692#4698#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -690,6 +703,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3285">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -697,6 +711,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1058">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -704,6 +719,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1806">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -711,6 +727,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2040">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -725,6 +742,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -732,6 +750,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="250" column="31" lean-forward="true" selection-start-line="250" selection-start-column="31" selection-end-line="250" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -753,6 +772,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="1079" column="16" lean-forward="false" selection-start-line="1079" selection-start-column="10" selection-end-line="1079" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -882,16 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baps/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="40" selection-end-column="26" />
-          <folding>
-            <element signature="e#308#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
@@ -910,9 +920,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="433">
+          <caret line="113" column="82" lean-forward="false" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="82" />
+          <folding>
+            <element signature="e#4692#4698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baps/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#308#317#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
