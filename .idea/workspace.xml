@@ -19,8 +19,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baps/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="123" column="1" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="123" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="118" column="23" lean-forward="true" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
               <folding>
                 <element signature="e#308#317#0" expanded="true" />
               </folding>
@@ -351,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515670581222</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fix db">
+      <created>1515672303540</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1515672303540</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -760,8 +767,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baps/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="123" column="1" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="123" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="118" column="23" lean-forward="true" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
           <folding>
             <element signature="e#308#317#0" expanded="true" />
           </folding>
