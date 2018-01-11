@@ -31,8 +31,8 @@
       <file leaf-file-name="materialadmin.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="5859" column="42" lean-forward="false" selection-start-line="5859" selection-start-column="38" selection-end-line="5859" selection-end-column="42" />
+            <state relative-caret-position="160">
+              <caret line="5858" column="14" lean-forward="false" selection-start-line="5858" selection-start-column="14" selection-end-line="5858" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -41,8 +41,8 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="677">
-              <caret line="87" column="32" lean-forward="false" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+            <state relative-caret-position="178">
+              <caret line="33" column="81" lean-forward="false" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -71,11 +71,9 @@
       <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1921">
-              <caret line="113" column="82" lean-forward="false" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="82" />
-              <folding>
-                <element signature="e#4692#4698#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,10 +97,10 @@
       <find>datatable</find>
       <find>haribhakt</find>
       <find>harib</find>
-      <find>jquery-ui</find>
       <find>select2</find>
       <find>material</find>
       <find>.jp</find>
+      <find>jquery-ui</find>
       <find>.jpg</find>
     </findStrings>
     <replaceStrings>
@@ -486,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515673529858</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="fix material">
+      <created>1515673815776</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1515673815776</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -566,7 +571,8 @@
     <MESSAGE value="fix jquery error" />
     <MESSAGE value="fix select2.css" />
     <MESSAGE value="fix css" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix css" />
+    <MESSAGE value="fix material" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix material" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -593,9 +599,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="79" lean-forward="false" selection-start-line="43" selection-start-column="79" selection-end-line="43" selection-end-column="79" />
-          <folding>
-            <element signature="e#4692#4698#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -886,29 +890,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="87" column="32" lean-forward="false" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/attendance/static/attendance/css/libs/select2/select2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1921">
-          <caret line="113" column="82" lean-forward="false" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="82" />
-          <folding>
-            <element signature="e#4692#4698#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,10 +908,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="33" column="81" lean-forward="false" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="5859" column="42" lean-forward="false" selection-start-line="5859" selection-start-column="38" selection-end-line="5859" selection-end-column="42" />
+        <state relative-caret-position="160">
+          <caret line="5858" column="14" lean-forward="false" selection-start-line="5858" selection-start-column="14" selection-end-line="5858" selection-end-column="14" />
           <folding />
         </state>
       </provider>
