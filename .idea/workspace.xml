@@ -5,7 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baps/settings.py" afterPath="$PROJECT_DIR$/baps/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css" afterPath="$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baps/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="-204">
               <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#308#317#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="materialadmin.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="5859" column="42" lean-forward="false" selection-start-line="5859" selection-start-column="38" selection-end-line="5859" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,7 +71,7 @@
       <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
+            <state relative-caret-position="1921">
               <caret line="113" column="82" lean-forward="false" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="82" />
               <folding>
                 <element signature="e#4692#4698#0" expanded="true" />
@@ -92,6 +102,8 @@
       <find>jquery-ui</find>
       <find>select2</find>
       <find>material</find>
+      <find>.jp</find>
+      <find>.jpg</find>
     </findStrings>
     <replaceStrings>
       <replace>haribhakt</replace>
@@ -121,6 +133,7 @@
         <option value="$PROJECT_DIR$/attendance/templates/attendance/login.html" />
         <option value="$PROJECT_DIR$/attendance/templates/attendance/layout.html" />
         <option value="$PROJECT_DIR$/baps/settings.py" />
+        <option value="$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css" />
       </list>
     </option>
   </component>
@@ -180,35 +193,6 @@
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="attendance" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baps-attendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baps-attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baps-attendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baps-attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="jquery-ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baps-attendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baps-attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="attendance" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="select2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="baps-attendance" type="b2602c69:ProjectViewProjectNode" />
@@ -495,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515673248971</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="fix css">
+      <created>1515673529858</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1515673529858</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -574,7 +565,8 @@
     <MESSAGE value="fix material error" />
     <MESSAGE value="fix jquery error" />
     <MESSAGE value="fix select2.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix select2.css" />
+    <MESSAGE value="fix css" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -768,14 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="1079" column="16" lean-forward="false" selection-start-line="1079" selection-start-column="10" selection-end-line="1079" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/attendance/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -920,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/attendance/templates/attendance/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="1921">
           <caret line="113" column="82" lean-forward="false" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="82" />
           <folding>
             <element signature="e#4692#4698#0" expanded="true" />
@@ -930,11 +914,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baps/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="-204">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#308#317#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance/static/attendance/css/materialadmin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="5859" column="42" lean-forward="false" selection-start-line="5859" selection-start-column="38" selection-end-line="5859" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
