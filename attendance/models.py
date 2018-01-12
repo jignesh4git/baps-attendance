@@ -34,8 +34,8 @@ class KaryakarGroup(models.Model):
     group_id = models.IntegerField(blank=False)
     karyakar = models.ForeignKey(HaribhaktDetail, related_name='karyakar', on_delete=models.CASCADE)
     haribhakt = models.ManyToManyField(HaribhaktDetail, related_name='haribhakt')
-    karyakar_from = models.DateField(auto_created=True)
-    karyakar_to = models.DateField(auto_created=True)
+    karyakar_from = models.DateField(blank=True)
+    karyakar_to = models.DateField(blank=True)
     user = models.OneToOneField(User)
 
     def __str__(self):

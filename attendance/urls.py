@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.views import generic
-from .views import HaribhaktDetailListView,newHaribhakt,index
+from .views import HaribhaktDetailListView,newHaribhakt,index,newKaryakarGroup
 from django.contrib.auth import views as auth
 from django.contrib.auth.decorators import login_required
 
@@ -23,8 +23,8 @@ urlpatterns = [
     url('^$', index, name="home"),
 	url(r'^login/$',generic.TemplateView.as_view(template_name="attendance/login.html"),name="login"),
 	url(r'^logout/$',auth.logout, name='/login/'),
-    url(r'^users/change_password/$', login_required(auth.password_change),
-        {'post_change_redirect': '/', 'template_name': 'change_password.html'}, name='change_password'),
+    url(r'^users/change_password/$', login_required(auth.password_change),{'post_change_redirect': '/', 'template_name': 'change_password.html'}, name='change_password'),
     url(r'^haribhakt/new/$',newHaribhakt, name="newHaribhakt"),
     url(r'^haribhaktdetail/$', HaribhaktDetailListView.as_view(), name='haribhaktdetail-list'),
+    url(r'^karyakar/new/$',newKaryakarGroup,name="newKaryakarGroup"),
 ]
