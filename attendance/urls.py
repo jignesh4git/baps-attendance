@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.views import generic
-from .views import HaribhaktDetailListView,newHaribhakt,index,newKaryakarGroup
+from .views import HaribhaktDetailListView,newHaribhakt,index,newKaryakarGroup,KaryakarGroupListView
 from django.contrib.auth import views as auth
 from django.contrib.auth.decorators import login_required
 
@@ -27,4 +27,5 @@ urlpatterns = [
     url(r'^haribhakt/new/$',newHaribhakt, name="newHaribhakt"),
     url(r'^haribhaktdetail/$', HaribhaktDetailListView.as_view(), name='haribhaktdetail-list'),
     url(r'^karyakar/new/$',newKaryakarGroup,name="newKaryakarGroup"),
+    url(r'^karyakargroups/$', KaryakarGroupListView.as_view(), name='karyakargroup-list'),
 ]
