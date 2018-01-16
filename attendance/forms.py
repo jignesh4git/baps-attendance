@@ -1,6 +1,5 @@
 from django.forms import ModelForm
 from django import forms
-from bootstrap_datepicker.widgets import DatePicker
 from .models import HaribhaktDetail,KaryakarGroup
 
 
