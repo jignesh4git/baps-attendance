@@ -37,6 +37,5 @@ class KaryakarGroup(models.Model):
     karyakar_from = models.DateField(blank=True)
     karyakar_to = models.DateField(blank=True)
     user = models.OneToOneField(User)
-
     def __str__(self):
-        return '%s (%s)' % (self.haribhakt, self.group_id)
+        return '%s (%s)' % (self.karyakar,self.group_id)

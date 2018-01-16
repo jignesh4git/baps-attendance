@@ -1,5 +1,6 @@
 from django.forms import ModelForm
 from django import forms
+from bootstrap_datepicker.widgets import DatePicker
 from .models import HaribhaktDetail,KaryakarGroup
 
 
@@ -10,11 +11,10 @@ class HaribhaktDetailForm(ModelForm):
         fields = ['baps_type','name','mobile_no','address','user']
 
 class KaryakarGroupForm(ModelForm):
-
+    # karyakar_from = forms.DateField(
+    #       widget=DatePicker(options={"format": "mm/dd/yyyy","autoclose": True}))
+    # karyakar_to = forms.DateField(
+    #       widget=DatePicker(options={"format": "mm/dd/yyyy","autoclose": True}))
     class Meta:
         model = KaryakarGroup
-        widgets = {
-            'karyakar_from': forms.DateInput(attrs={'class': 'datepicker'}),
-            'karyakar_to': forms.DateInput(attrs={'class': 'datepicker'}),
-        }
         fields = ['group_id','karyakar','haribhakt','karyakar_from','karyakar_to','user']

@@ -72,5 +72,5 @@ class KaryakarGroupListView(ListView):
     list_display = ('group_id','karyakar','karyakar_from','karyakar_to','haribhakt')
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
-        context['karyakargroups'] = KaryakarGroup.objects.all()
+        context['karyakargroups'] = KaryakarGroup.objects.filter(group_id='34')
         return context

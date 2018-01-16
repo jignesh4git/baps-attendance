@@ -26,6 +26,7 @@
                                                         <th>Karyakar From</th>
                                                         <th>Karyakar To</th>
                                                         <th>Haribhakt List</th>
+                                                        <th>Total</th>
                                                         <th width="150px">Buttons</th>
                                                     </tr>
                                                 </thead>
@@ -33,10 +34,14 @@
                                                     {% for karyakargroup in karyakargroups %}
                                                         <tr class="gradeX">
                                                             <td>{{ karyakargroup.group_id }}</td>
-                                                            <td>{{ karyakargroup.karyakar }}</td>
+                                                            <td>{{ karyakargroup.karyakar.name }}</td>
                                                             <td>{{ karyakargroup.karyakar_from }}</td>
                                                             <td>{{ karyakargroup.karyakar_to }}</td>
-                                                            <td>{{ karyakargroup.haribhakt }}</span></td>
+                                                            <td>{% for haribhakt in karyakargroup.haribhakt.all %}
+                                                                {{haribhakt.id}}.{{ haribhakt }} <br>
+                                                                {% endfor %}
+                                                            </td>
+                                                            <td>{{ karyakargroup.haribhakt.count }}</td>
                                                             <td>
                                                                 <a href="" class="btn ink-reaction btn-floating-action btn-warning"><i class="md md-edit"></i> </a>
                                                                 <a href="" class="btn ink-reaction btn-floating-action btn-danger" onclick="return confirm('Are you sure you want to delete this?')"><i class="md md-delete"></i> </a>
