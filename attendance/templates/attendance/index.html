@@ -36,8 +36,8 @@
                                                             <td>{{ haribhaktdetail.address }}</td>
                                                             <td><span class="badge" style="background: #0aa89e"> {{ haribhaktdetail.haribhakt_status }}</span></td>
                                                             <td>
-                                                                <a href="" class="btn ink-reaction btn-floating-action btn-warning"><i class="md md-edit"></i> </a>
-                                                                <a href="" class="btn ink-reaction btn-floating-action btn-danger" onclick="return confirm('Are you sure you want to delete this?')"><i class="md md-delete"></i> </a>
+                                                                <a href="{% url 'editHaribhaktDetail' haribhaktdetail.id %}" class="btn ink-reaction btn-floating-action btn-warning"><i class="md md-edit"></i> </a>
+                                                                <a href="{% url 'deleteHaribhaktDetail' haribhaktdetail.id %}" class="btn ink-reaction btn-floating-action btn-danger" onclick="return confirm('Are you sure you want to delete this?')"><i class="md md-delete"></i> </a>
                                                                 <a href="" class="btn ink-reaction btn-floating-action btn-primary"><i class="md md-print"></i> </a>
                                                             </td>
                                                         </tr>

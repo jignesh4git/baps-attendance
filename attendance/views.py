@@ -41,22 +41,68 @@ def newHaribhakt(request):
         form = HaribhaktDetailForm()
         return render(request, 'attendance/newHaribhakt.html', {'form':form})
 
+
 @login_required
-def newKaryakarGroup(request):
+def editHaribhaktDetail(request, haribhaktdetail_id):
+    haribhakt = HaribhaktDetail.objects.get(id=haribhaktdetail_id)
     if request.POST:
-        form = KaryakarGroupForm(request.POST)
+        form = HaribhaktDetailForm(request.POST, instance=haribhakt)
         if form.is_valid():
-            # obj = form.save(commit=False)
-            # obj.user = request.user
             if form.save():
-                return redirect('/', messages.success(request, 'Detail was successfully added.', 'alert-success'))
+                return redirect('/', messages.success(request, 'HaribhaktDetail was successfully updated.', 'alert-success'))
             else:
                 return redirect('/', messages.error(request, 'Data is not saved', 'alert-danger'))
         else:
             return redirect('/', messages.error(request, 'Form is not valid', 'alert-danger'))
     else:
+        form = HaribhaktDetailForm(instance=haribhakt)
+        return render(request, 'attendance/editHaribhakt.html', {'form': form})
+
+
+@login_required
+def deleteHaribhaktDetail(request, haribhaktdetail_id):
+    haribhakt = HaribhaktDetail.objects.get(id=haribhaktdetail_id)
+    haribhakt.delete()
+    return redirect('/', messages.success(request, 'Details was successfully deleted.', 'alert-success'))
+
+
+@login_required
+def newKaryakarGroup(request):
+    if request.POST:
+        form = KaryakarGroupForm(request.POST)
+        if form.is_valid():
+            if form.save():
+                return redirect('/attendance/karyakargroups/', messages.success(request, 'Detail was successfully added.', 'alert-success'))
+            else:
+                return redirect('/attendance/karyakargroup/new', messages.error(request, 'Data is not saved', 'alert-danger'))
+        else:
+            return redirect('/attendance/karyakargroup/new', messages.error(request, 'Form is not valid', 'alert-danger'))
+    else:
         form = KaryakarGroupForm()
         return render(request, 'attendance/newKaryakargroup.html', {'form':form})
+
+@login_required
+def editKaryakarGroup(request, karyakargroup_id):
+    karyakar = KaryakarGroup.objects.get(id=karyakargroup_id)
+    if request.POST:
+        form = KaryakarGroupForm(request.POST, instance=karyakar)
+        if form.is_valid():
+            if form.save():
+                return redirect('/attendance/karyakargroups/', messages.success(request, 'KaryakarGroup was successfully updated.', 'alert-success'))
+            else:
+                return redirect('/attendance/karyakargroup/edit', messages.error(request, 'Data is not saved', 'alert-danger'))
+        else:
+            return redirect('/attendance/karyakargroup/edit', messages.error(request, 'Form is not valid', 'alert-danger'))
+    else:
+        form = KaryakarGroupForm(instance=karyakar)
+        return render(request, 'attendance/editKaryakarGroup.html', {'form':form})
+
+@login_required
+def deleteKaryakarGroup(request, karyakargroup_id):
+    karyakar = KaryakarGroup.objects.get(id=karyakargroup_id)
+    karyakar.delete()
+    return redirect('/attendance/karyakargroups/', messages.success(request, 'KaryakarGroup was successfully deleted.', 'alert-success'))
+
 
 class HaribhaktDetailListView(ListView):
     model = HaribhaktDetail

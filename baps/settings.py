@@ -50,7 +50,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'widget_tweaks',
-    'attendance'
+    'attendance',
 ]
 
 MIDDLEWARE = [
@@ -107,23 +107,23 @@ WSGI_APPLICATION = 'baps.wsgi.application'
 
 
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
-}
-# Postgres database link
 # DATABASES = {
 #     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         # 'NAME': 'baps-attendance',
-#         # 'USER': 'postgres',
-#         # 'PASSWORD': '1@mAdmin',
-#         # 'HOST': 'localhost',
-#         # 'PORT': '5432',
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 #     }
 # }
+# Postgres database link
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'baps-attendance',
+        'USER': 'postgres',
+        'PASSWORD': '1@mAdmin',
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
+}
 
 db_from_env = dj_database_url.config(conn_max_age=500)
 DATABASES['default'].update(db_from_env)

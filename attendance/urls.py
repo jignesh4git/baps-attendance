@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.views import generic
-from .views import HaribhaktDetailListView,newHaribhakt,index,newKaryakarGroup,KaryakarGroupListView
+from .views import HaribhaktDetailListView,newHaribhakt,index,newKaryakarGroup,KaryakarGroupListView,editHaribhaktDetail,editKaryakarGroup,deleteHaribhaktDetail,deleteKaryakarGroup
 from django.contrib.auth import views as auth
 from django.contrib.auth.decorators import login_required
 
@@ -25,7 +25,11 @@ urlpatterns = [
 	url(r'^logout/$',auth.logout, name='/login/'),
     url(r'^users/change_password/$', login_required(auth.password_change),{'post_change_redirect': '/', 'template_name': 'change_password.html'}, name='change_password'),
     url(r'^haribhakt/new/$',newHaribhakt, name="newHaribhakt"),
+    url(r'^haribhaktdetail/edit/(?P<haribhaktdetail_id>\d+)/$', editHaribhaktDetail, name='editHaribhaktDetail'),
+    url(r'^haribhaktdetail/delete/(?P<haribhaktdetail_id>\d+)/$', deleteHaribhaktDetail, name='deleteHaribhaktDetail'),
     url(r'^haribhaktdetail/$', HaribhaktDetailListView.as_view(), name='haribhaktdetail-list'),
-    url(r'^karyakar/new/$',newKaryakarGroup,name="newKaryakarGroup"),
+    url(r'^karyakargroup/new/$',newKaryakarGroup,name="newKaryakarGroup"),
+    url(r'^karyakargroup/edit/(?P<karyakargroup_id>\d+)/$', editKaryakarGroup, name='editKaryakarGroup'),
+    url(r'^karyakargroup/delete/(?P<karyakargroup_id>\d+)/$', deleteKaryakarGroup, name='deleteKaryakarGroup'),
     url(r'^karyakargroups/$', KaryakarGroupListView.as_view(), name='karyakargroup-list'),
 ]
