@@ -1,1 +1,1 @@
-web: bundle exec thin start -p $PORT
+web: gunicorn momentous.wsgi --log-file -
