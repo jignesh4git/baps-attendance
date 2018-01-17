@@ -95,7 +95,7 @@ def editKaryakarGroup(request, karyakargroup_id):
             return redirect('/attendance/karyakargroup/edit', messages.error(request, 'Form is not valid', 'alert-danger'))
     else:
         form = KaryakarGroupForm(instance=karyakar)
-        return render(request, 'attendance/editKaryakarGroup.html', {'form':form})
+        return render(request, 'attendance/editKaryakargroup.html', {'form':form})
 
 @login_required
 def deleteKaryakarGroup(request, karyakargroup_id):
